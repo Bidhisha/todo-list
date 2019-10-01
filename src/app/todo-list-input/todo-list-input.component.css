@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    
+}
+input[type=text]
+{
+    width:300px;
+    height:30px;
+    margin-top: 40px;
+    border: 2px solid rgb(126, 126, 207);
+    border-radius: 10px;
+    padding: 3px;
+}

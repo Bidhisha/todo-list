@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    margin-top: 20px;
+}
+input[type=text]{
+    height: 30px;
+    width: 250px;
+}
+button{
+    margin-top: 10px;
+}
